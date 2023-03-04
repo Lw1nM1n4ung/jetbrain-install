@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Pycharm
+Comment=PyCharm  Professional 
+Exec=pycharm
+Icon=/.icon/pycharm.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+StartupWMClass=pycharm
+Name[en_US]=Pycharm

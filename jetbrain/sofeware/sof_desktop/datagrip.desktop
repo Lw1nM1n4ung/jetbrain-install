@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Datagrip
+Comment=Datagrip
+Exec=datagrip
+Icon=/.icon/datagrip.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+StartupWMClass=datagrip
+Name[en_US]=Datagrip

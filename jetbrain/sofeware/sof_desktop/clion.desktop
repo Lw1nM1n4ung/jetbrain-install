@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Clion
+Comment=clion
+Exec=clion
+Icon=/.icon/clion.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+StartupWMClass=clion
+Name[en_US]=clion
+
+
+

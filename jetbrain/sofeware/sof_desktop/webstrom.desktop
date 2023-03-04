@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=webstorm
+Comment=webstorm
+Exec=webstorm
+Icon=/.icon/webstorm.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+StartupWMClass=webstorm
+Name[en_US]=webstorm

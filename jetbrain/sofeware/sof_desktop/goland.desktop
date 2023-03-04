@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Goland
+Comment=Goland
+Exec=goland
+Icon=/.icon/goland.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+StartupWMClass=goland
+Name[en_US]=Goland

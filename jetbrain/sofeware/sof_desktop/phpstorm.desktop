@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=phpstorm
+Comment=phpstorm
+Exec=phpstorm
+Icon=/.icon/phpstorm.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+StartupWMClass=phpstorm
+Name[en_US]=phpstorm

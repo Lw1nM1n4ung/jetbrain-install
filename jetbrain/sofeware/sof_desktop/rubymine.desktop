@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=rubymine
+Comment=rubymine
+Exec=rubymine
+Icon=/.icon/rubymine.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+StartupWMClass=rubymine
+Name[en_US]=rubymine

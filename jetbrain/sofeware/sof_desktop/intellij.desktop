@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=intellij
+Comment=intellij
+Exec=intellij
+Icon=/.icon/intellij.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Network;Application;
+StartupWMClass=intellij
+Name[en_US]=intellij
